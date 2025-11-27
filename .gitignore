@@ -1,0 +1,44 @@
+# Build artifacts
+bin/
+build/
+*.so
+*.a
+*.aar
+*.jar
+
+# Godot
+.import/
+export.cfg
+export_presets.cfg
+.godot/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Credentials - NEVER commit these!
+google-services.json
+*.keystore
+credentials.json
+config.json
+.env
+
+# Android
+local.properties
+.gradle/
+.cxx/
+captures/
+*.iml
+
+# Temporary files
+tmp/
+temp/
+*.tmp

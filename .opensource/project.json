@@ -1,0 +1,7 @@
+{
+  "name": "Godot Social Analytics",
+  "type": "library",
+  "platforms": ["Android"],
+  "content": "README.md",
+  "pages": ["CONTRIBUTING.md", "QUICK_REFERENCE.md"]
+}
